@@ -1,0 +1,23 @@
+AGENTS.md
+  s_32a05201ed124d::t_8702bedfa2a178 1-6
+README.md
+  s_32a05201ed124d::t_946cc5a52e1e8e 1-49
+skills/weekly-work-summary/SKILL.md
+  s_32a05201ed124d::t_c882e647c66051 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6714ac0bd315706ab91a3a808e389fe5d30f8bcb",
+  "prompts": {},
+  "sessions": {
+    "s_32a05201ed124d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18c44-b7f0-7081-939e-9e1ba1902866",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "Pranjal A <pranjal.a@proximity.tech>"
+    }
+  }
+}
